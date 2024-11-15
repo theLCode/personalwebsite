@@ -41,7 +41,6 @@ body{
     margin: 0;
     background-color: var(--brightcolor);
     font-family: Ubuntu;
-    background-image: url('../pics/cawcaw.jpg');
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
