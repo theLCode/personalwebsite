@@ -56,7 +56,7 @@ body{
     height: 100%;
     overflow: auto;
 }
-.nav li p, li a{
+.nav li p, .nav li a{
     display: block;
     color: white;
     padding: 8px 16px;
@@ -103,5 +103,12 @@ body{
 }
 .rot > div:nth-child(5){
     animation: roll 5s linear infinite 4s;
+}
+.pdf{
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    aspect-ratio: 4/3;
 }
 #sizing{width:50%}
